@@ -2,7 +2,7 @@
 
 > [!WARNING]  
 >Este github puede estar actualizado como puede que no esté actualizado. Mantente informado siempre en https://corero.zubkan.com
-> 
+
 > [!IMPORTANT]
 > **Este bot requiere obligatoriamente conexión a la base de datos MySQL de un servidor Ragnarok (rAthena)**. Sin la DB del juego, la mayoría de funcionalidades no operan.
 
